@@ -4,8 +4,8 @@ public class Main {
         MyClass thread1 = new MyClass( "Thread 1");
         MyClass thread2 = new MyClass( "Thread 2");
 
-        System.out.println( thread1.isAlive() );
-        System.out.println( thread2.isAlive() );
+        System.out.println( "Thread1 :: " + thread1.isAlive() );
+        System.out.println( "Thread2 :: " + thread2.isAlive() );
 
         try {
 
@@ -18,6 +18,8 @@ public class Main {
 
         }
 
+        System.out.println( "Thread1 :: " + thread1.isAlive() );
+        System.out.println( "Thread2 :: " + thread2.isAlive() );
 
     }
 }
