@@ -2,7 +2,7 @@ package org.example;
 
 public class TwoStringClass {
 
-    public static void twoStringMethod( String a, String b ) {
+    public synchronized void twoStringMethod( String a, String b ) {
 
         System.out.println( a );
 
