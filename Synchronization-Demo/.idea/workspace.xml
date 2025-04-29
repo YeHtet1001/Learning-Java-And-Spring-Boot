@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b1b572f-3af5-4af4-87d5-8e0247e951ce" name="Changes" comment="" />
+    <list default="true" id="9b1b572f-3af5-4af4-87d5-8e0247e951ce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Security-Context-Demo/src/main/java/org/example/securitycontextdemo/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Security-Context-Demo/src/main/java/org/example/securitycontextdemo/controller/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Security-Context-Demo/src/main/resources/how_to_run" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../About_Java_Thread/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../About_Java_Thread/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/TwoStringClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/TwoStringClass.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,9 +27,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2wMiDu16jFLx1vciOv0nOMZxBOp" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -35,6 +42,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "J:/Learning-Java-And-Spring-Boot/Synchronization-Demo",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -61,6 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1745857728408</updated>
       <workItem from="1745857729345" duration="2125000" />
+      <workItem from="1745938391944" duration="2808000" />
     </task>
     <servers />
   </component>

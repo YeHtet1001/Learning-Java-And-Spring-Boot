@@ -2,8 +2,8 @@ package org.example;
 
 public class TwoStringClass {
 
-    public synchronized void twoStringMethod( String a, String b ) {
-
+    //public synchronized void twoStringMethod( String a, String b ) {
+    public void twoStringMethod ( String a, String b ) {
         System.out.println( a );
 
         try {
