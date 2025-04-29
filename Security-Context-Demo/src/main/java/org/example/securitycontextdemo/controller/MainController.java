@@ -9,6 +9,10 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class MainController {
 
+    /**
+     * If you want to run , please check and look how_to_run file under resources
+     */
+
     @GetMapping("/home")
     public String home(){
 
