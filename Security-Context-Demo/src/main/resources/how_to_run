@@ -1,0 +1,10 @@
+1- go to terminal
+2- use gitBash
+3- run
+   => $ curl -u Admin -p 12345(wrong)
+   => $ curl -u Admin:12345 localhost:8080/home(correct)
+   => -u = user (Admin)that you hava created in config/SecurityConfig
+   => you must know about password case -> after typing user , use :pwd as -u Admin:12345
+   => and then type url about your link ,
+      it has localhost and port-number and direction that you have created in controller layer.
+
