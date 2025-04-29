@@ -19,7 +19,7 @@ public class Main {
         }
 
         System.out.println( "Thread1 :: " + thread1.isAlive() );
-        System.out.println( "Thread2 :: " + thread2.isAlive() );
+        System.out.println( "Thread2x` :: " + thread2.isAlive() );
 
     }
 }
